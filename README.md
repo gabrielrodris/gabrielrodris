@@ -1,8 +1,8 @@
 #  Gabriel Rodrigues
 
-🎓 Desenvolvedor em início de carreira  
+ Desenvolvedor em início de carreira  
 💻 Interesse em Back-End, Front-End e novas tecnologias  
-📚 Em constante aprendizado e evolução
+🎓 Formado em Técnico em Desenvolvimento de Sistemas
 
 ---
 
