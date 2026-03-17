@@ -56,4 +56,4 @@ Confira meus repositórios para ver projetos de estudo e aplicações práticas 
 ## Contato
 - [GitHub](https://github.com/gabrielrodris)
 - [Linkedin](www.linkedin.com/in/gabriel-rodrigues-7b6912368)
-- [Email](biel790832157@gmail.com)
+- biel790832157@gmail.com
